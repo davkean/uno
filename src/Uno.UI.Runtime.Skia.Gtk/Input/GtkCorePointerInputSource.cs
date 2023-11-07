@@ -18,6 +18,7 @@ using Uno.UI.Runtime.Skia.Gtk.UI.Controls;
 using Microsoft.UI.Xaml.Controls;
 using Windows.Graphics.Display;
 using Window = Gdk.Window;
+using Uno.UI.Hosting;
 
 namespace Uno.UI.Runtime.Skia.Gtk;
 
